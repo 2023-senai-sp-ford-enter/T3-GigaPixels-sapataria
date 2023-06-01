@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.titulo-da-pagina {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 80;
+    color:#2F1419;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+
+.eslogan {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 80;
+    color:#2F1419;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.banner {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+
+
+.menu-navegação {
+    width: 80%;
+    margin: auto;
+}
+
+.menu-navegação ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+li {
+    padding: 20px;
+
+}
+
+.menu-navegação a {
+    text-decoration: none;
+
+}
+
+.menu-navegação {
+    border-style: solid;
+    border-color: black;
+
+}
+
+
+.listra-1 {
+    background-color: #2F1419;
+    height: 20px;
+}
+
+.listra-2 {
+    background-color: black;
+    height: 20px;
+}
+
+.listra-3 {
+    background-color: gray;
+    height: 20px;
+}
+
+.subititulo-da-pagina {
+    text-align: center;
+    background: gray;
+}
+
+
+
+
+
+.footer {
+    background-color:#2F1419 ;
+    color: white;
+    margin: auto;
+    margin-top: 5vh;
+    display: flex;
+    /* justify-content: space-evenly; */
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.footerIcons {
+    display: flex;
+}
+
+.footerIcons ul {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+    list-style: none;
+}
+
+.footerIcons ul li img {
+    width: 20px;
+}
+
+.footerIcons p {
+    align-self: center;
+    margin-left: 55px;
+}
+    
