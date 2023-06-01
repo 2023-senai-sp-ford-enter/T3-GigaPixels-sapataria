@@ -1,0 +1,510 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.titulo-da-pagina {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 80;
+    color:#2F1419;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+
+.eslogan {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 80;
+    color:#2F1419;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+
+.menu-navegação {
+    width: 80%;
+    margin: auto;
+}
+
+.menu-navegação ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+li {
+    padding: 20px;
+
+}
+
+.menu-navegação a {
+    text-decoration: none;
+
+}
+
+.menu-navegação {
+    border-style: solid;
+    border-color: black;
+
+}
+
+
+.listra-1 {
+    background-color: #2F1419;
+    height: 20px;
+}
+
+.listra-2 {
+    background-color: black;
+    height: 20px;
+}
+
+.listra-3 {
+    background-color: gray;
+    height: 20px;
+}
+
+.subititulo-da-pagina {
+    text-align: center;
+    background: gray;
+}
+
+.titulo-artigo {
+    text-align: center;
+}
+
+
+.banner {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.consertos {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.consertos {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.consertos:hover {
+
+  transform: scale(1.5) rotate(-10deg);  
+
+}
+
+.vendas {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.venda-sapatos {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.venda-sapatos  {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.venda-sapatos:hover {
+
+  transform: scale(1.5) rotate(-10deg);  
+}
+
+
+
+.vendas-bolsas {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.vendas-bolsas  {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.vendas-bolsas:hover {
+
+  transform: scale(1.5) rotate(-10deg);  
+}
+
+
+.venda-cintos {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.venda-cintos  {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.venda-cintos:hover {
+
+  transform: scale(1.5) rotate(-10deg);  
+}
+
+.costura {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.costura {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.costura:hover {
+
+  transform: scale(1.5) rotate(-0deg);  
+}
+
+.conserto {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.salto {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.salto {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.salto:hover {
+
+  transform: scale(1.5) rotate(-0deg);  
+}
+
+.troca-sola {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.troca-sola {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.troca-sola:hover {
+
+  transform: scale(1.5) rotate(-0deg);  
+}
+
+.forma {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.forma {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.forma:hover {
+
+  transform: scale(1.5) rotate(-0deg);  
+}
+
+.Cadarço-fivelas {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.Cadarço-fivelas {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.Cadarço-fivelas:hover {
+
+  transform: scale(1.5) rotate(-0deg);  
+}
+
+.vendas-sapatos {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+
+.duas-cores-fivelas {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.duas-cores-fivelas {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.duas-cores-fivelas:hover {
+
+  transform: scale(1.5) rotate(-0deg);  
+}
+
+.solas-borracha {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.solas-borracha {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.solas-borracha:hover {
+
+  transform: scale(1.5) rotate(-0deg);  
+}
+
+.detalhes-furos {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.detalhes-furos {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.detalhes-furos:hover {
+
+  transform: scale(1.5) rotate(-0deg);  
+}
+
+.Mochila-marrom  {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.Mochila-marrom {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.Mochila-marrom:hover {
+
+  transform: scale(1.5) rotate(-0deg);  
+}
+
+.vendas-bolsas-mochilas-pastas {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.pasta-marrom {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.pasta-marrom {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.pasta-marrom:hover {
+
+  transform: scale(1.5) rotate(-0deg);  
+}
+
+.bolsa-cinto {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.bolsa-cinto {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.bolsa-cinto:hover {
+
+  transform: scale(1.5) rotate(-0deg);  
+}
+
+.pasta-preto-retro {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.pasta-preto-retro {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.pasta-preto-retro:hover {
+
+  transform: scale(1.5) rotate(-0deg);  
+}
+
+.cintos-cores {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.cintos-cores {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.cintos-cores:hover {
+
+  transform: scale(1.5) rotate(-0deg);  
+}
+
+.vendas-cintos {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.dois-cintos-1belt {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.dois-cintos-1belt {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.dois-cintos-1belt:hover {
+
+  transform: scale(1.5) rotate(-0deg);  
+}
+
+.cinto-marrom-classico {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.cinto-marrom-classico {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.cinto-marrom-classico:hover {
+
+  transform: scale(1.5) rotate(-0deg);  
+}
+
+.cinto-cafe-casual {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.cinto-cafe-casual {
+
+    width: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.cinto-cafe-casual:hover {
+
+  transform: scale(1.5) rotate(-0deg);  
+}
+
+.footer {
+    background-color:#2F1419 ;
+    color: white;
+    margin: auto;
+    margin-top: 5vh;
+    display: flex;
+    /* justify-content: space-evenly; */
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.footerIcons {
+    display: flex;
+}
+
+.footerIcons ul {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+    list-style: none;
+}
+
+.footerIcons ul li img {
+    width: 20px;
+}
+
+.footerIcons p {
+    align-self: center;
+    margin-left: 55px;
+    
+}
+
